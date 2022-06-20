@@ -1,9 +1,4 @@
 package com.naver.test;
-
-/**
- * 自定义Array队列
- * @author ouyangjun
- */
 public class ArrayQueue<E> {
 
     final Object[] items;
